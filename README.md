@@ -34,7 +34,7 @@ Here's a breakdown of the code:
 
 This implementation effectively reverses the order of the words in the input string.
 
-# C++ Library Reference - http://beeprogram.org/ 
+# C++ Library Reference - https://www.newlisp.org/ 
 ```c++
 #include <string.h>
 #include <stdio.h>
